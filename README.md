@@ -5,6 +5,7 @@
 - It's a frontend project in which we have tried to implement dynamic, responsive and smooth UI using react.js.
 
 ### Contributers
+- Aniket Verma
 - Ritik Agarwal
 - Archita Banerjee
 - Shantanu Mamgain
