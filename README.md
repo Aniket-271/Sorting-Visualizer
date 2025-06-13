@@ -6,9 +6,6 @@
 
 ### Contributers
 - Aniket Verma
-- Ritik Agarwal
-- Archita Banerjee
-- Shantanu Mamgain
 
 ### Project structure
 <img src="./Sorting-Visualizer/public/Layout.svg" />
