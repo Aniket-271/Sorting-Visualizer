@@ -7,8 +7,6 @@
 ### Contributers
 - Aniket Verma
 
-### Project structure
-<img src="./Sorting-Visualizer/public/Layout.svg" />
 
 ### Technology Used
 - HTML
